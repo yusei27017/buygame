@@ -13,3 +13,5 @@ sudo pip3 install 2captcha-python
 ## 使用2recaptcha服務
 官方網站：https://2captcha.com/
 
+## 聲明
+此專案只作為技術研討之用途，不作其他用途。
